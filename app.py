@@ -7,7 +7,7 @@ import openai
 app = Flask(__name__, template_folder='C:\geoiot\OpenLayers\openapi')
 
 # OpenAI API 키를 설정합니다.
-openai.api_key = "본인의 OpenAI API 키 입력"
+openai.api_key = "본인의 OpenAI API 키를 입력해주세요"
 
 # 대화 내역을 저장할 전역 리스트를 생성합니다.
 conversation_history = []
