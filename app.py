@@ -4,7 +4,7 @@ import openai
 app = Flask(__name__)
 
 
-openai.api_key = "본인의 API 키 입력"
+openai.api_key = "본인의 API 키 입력."
 
 
 shelters = [
