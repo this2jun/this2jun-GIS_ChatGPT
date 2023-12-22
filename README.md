@@ -1,7 +1,4 @@
 # ChatGPT를 이용한 GIS 재난 대응 도우미 구현하기
-<p align="center">
-  <img src="https://github.com/this2jun/this2jun-GIS_ChatGPT/issues/1#issue-2053700206">
-</p>
 
 ## 💡 프로젝트 소개 및 최종목표
 - ChatGPT와 GIS를 융합하여 사용자에게 더욱 유익한 서비스를 만들어 보고싶어서 시작한 프로젝트입니다.
